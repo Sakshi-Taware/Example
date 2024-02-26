@@ -1,4 +1,4 @@
-#sample repository
-hello this is sample Repository,Welcome all
+#Sample repository
+Hello this is sample Repository,Welcome all!
 
-#md: markdown
+
